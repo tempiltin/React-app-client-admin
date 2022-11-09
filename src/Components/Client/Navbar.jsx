@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import { Col, Container, Row } from 'reactstrap';
+import {Container } from 'reactstrap';
 import {BsSpeedometer2,BsHeart} from "react-icons/bs"
 import {GrLocation,GrCart} from "react-icons/gr"
 import {FaUserAlt} from "react-icons/fa"
